@@ -4,7 +4,7 @@ This a small calculator project.<br/>
 Author:Yunqin Wang
 
 ## Preview
-<img src="/final-product.png"/>
+<img src="/final-product.PNG"/>
 
 ## Recommended IDE Setup
 
